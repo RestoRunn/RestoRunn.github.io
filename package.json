@@ -1,0 +1,25 @@
+{
+  "name": "restorun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.c327df83.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "","deploy": "gh-pages -d node_modules"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArdaTavusbay/restorun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/restorunn/restorun.githbub.io/issues"
+  },
+  "homepage": "https://restorunn.github.io/restorunn",
+  "dependencies": {
+    "gh-pages": "^6.0.0",
+    "react-scripts": "^5.0.1"
+  }
+}
